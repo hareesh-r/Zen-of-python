@@ -1,4 +1,3 @@
-```markdown
 # Zen of Python Examples
 
 This project demonstrates the principles of the Zen of Python through code examples. The Zen of Python is a collection of software design principles for the Python programming language, which can be found by importing the `this` module in Python.
