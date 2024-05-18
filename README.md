@@ -1,5 +1,3 @@
-Sure! Here is a `README.md` file for your project:
-
 ```markdown
 # Zen of Python Examples
 
